@@ -24,7 +24,9 @@ exports[`Home page matches snapshot 1`] = `
           pages/index.tsx
         </code>
       </p>
-      <button>
+      <button
+        type="button"
+      >
         Test Button
       </button>
       <div
